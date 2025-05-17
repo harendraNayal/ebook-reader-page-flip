@@ -9,7 +9,7 @@ Supports realistic page-flip animation and smooth reading experience across all 
 ## 🚀 Features
 
 - 📖 Realistic **page-flip animation**
-- 📱 Cross-platform: Android, iOS, Web, and Windows
+- 📱 Cross-platform: Windows, Web, Android & iOS (Best for Windows/ Web till now)
 - 📂 Supports JPG/PNG pages (or can be modified to use a PDF)
 - 🌙 Light/Dark mode support (upcoming)
 - 🔍 Zooming and swipe navigation (upcoming)
