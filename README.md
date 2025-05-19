@@ -1,7 +1,7 @@
 # 📚 Flutter E-Book Reader App
 
 A beautiful and fast e-book reader built with Flutter for Android, iOS, Web, Windows & macOS. Supports
-realistic page-flip animation and smooth reading experience across all platforms. Best for Windows/Web/macOS due to big screen.
+realistic page-flip animation and smooth reading experience across all platforms (best for Windows/Web/macOS due to big screen as of now.)
 
 ---
 
